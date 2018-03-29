@@ -1,0 +1,2 @@
+# panini
+Panini stickers list
