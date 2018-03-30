@@ -1,7 +1,5 @@
 # Panini WC 2018 - stickers list
 
-# Panini WC 2018 - stickers list
-
 - [ ] 1 H
 - [ ] 2 H
 - [ ] 3 H
